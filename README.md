@@ -23,7 +23,9 @@ You can check the website here : https://apparent-value-904210.framer.app/
 
 - Welcome Screen  
 - Signup / Create Account  
-- Login  
+- Login
+- "Continue with Google" option for third-party login simulation
+- Links to terms & conditions
 - Forgot Password  
 - Success Page
 
