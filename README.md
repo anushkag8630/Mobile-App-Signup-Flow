@@ -2,6 +2,8 @@
 
 A clean and modern **mobile app signup flow** designed with user experience in mind. This project showcases the UI/UX design process using **Figma** and an interactive prototype built with **Framer**.
 
+You can check the website here : https://apparent-value-904210.framer.app/
+
 ## ✨ Features
 
 - 📲 Minimal and intuitive mobile signup UI
